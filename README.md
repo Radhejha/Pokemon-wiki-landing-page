@@ -1,1 +1,1 @@
-# Pokemon-wiki-landing-page
+# pokemon-wiki
